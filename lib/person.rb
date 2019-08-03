@@ -1,1 +1,1 @@
-Person.new
+class Person
